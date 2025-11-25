@@ -8,7 +8,7 @@ import "./Navbar.css";
 export default function Navbar() {
   return (
     <nav className="navbar">
-      <h1>✨영화상자</h1>
+      <h1>🎥영화상자🎬</h1>
 
       <div className="navbar_links">
         <DarkMode />
