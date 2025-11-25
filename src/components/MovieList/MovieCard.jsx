@@ -1,4 +1,4 @@
-import "./MovieCard.css";
+import "./Moviecard.css";
 import Star from "../../assets/star.png";
 
 export default function MovieCard({ movie }) {
